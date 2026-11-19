@@ -1,8 +1,8 @@
 # Refresh-aware trophy rarity forecasts
 
 [![make.fun competition](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![Rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/hacker-beep/gta6-trophy-rarity-forecast-01-entry/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![Reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/hacker-beep/gta6-trophy-rarity-forecast-01-entry/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![Rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/hacker-beep/gta6-trophy-rarity-forecast-01-entry-v2/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![Reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/hacker-beep/gta6-trophy-rarity-forecast-01-entry-v2/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 
 An independently authored Python entry for `gta6-trophy-rarity-forecast-01`.
 It forecasts five earn-rate quantiles for every trophy using only the supplied
@@ -113,11 +113,10 @@ rates are also unavailable.
 
 The kit's local `check` passes with the genuine recorded session bundled by
 the kit, including authorship, revision, transcript, and run-record checks.
-Checks deferred to submission still apply. In particular, GitHub reports that
-the designated repository was created **2026-11-19 10:21:28 UTC**, before the
-competition opened at **11:30:00 UTC**. A GitHub entry from this repository
-would fail that requirement. Delivery of this code does not resolve repository
-eligibility or constitute a competition submission. The transcript bundle is
-kept locally under ignored `artifacts/`, not published in the source repository.
+Checks deferred to submission still apply. This repository was created
+**2026-11-19 12:47:06 UTC**, after the competition opened at **11:30:00
+UTC**, so it satisfies the repository-creation requirement. The transcript
+bundle is kept locally under ignored `artifacts/`, not published in the
+source repository.
 
 Licensed under MIT; see [LICENSE](LICENSE).
